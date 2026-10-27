@@ -63,6 +63,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * [ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - A Neovim plugin that alloys  you to synchronize themes between Neovim and Ghostty for a consistent look between the two.
 * [vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
 * [ghosttify](https://github.com/natibek/ghosttify) - Convert gnome-terminal shortcuts to Ghostty keybindings.
+* [siga](https://github.com/souvlakeee/siga) - Live progress bars that keep filling after they're printed, drawn with a Ghostty custom shader and an OSC palette escape (also works in Kitty); for Claude Code and any CLI.
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
